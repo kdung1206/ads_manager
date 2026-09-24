@@ -1,0 +1,7 @@
+node_modules
+dist
+.env.local
+.env
+src/db_store.json
+api/index.js
+api/index.js.map
